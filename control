@@ -1,7 +1,7 @@
 Package: com.pookjw.newbattery16
 Name: NewBattery16
 Version: 1.0
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Enable iOS 16 style battery indicator on non-notch iOS devices.
 Maintainer: pookjw
 Author: pookjw
